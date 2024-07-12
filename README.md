@@ -15,7 +15,3 @@
 
 使用了部分游戏内图片+个人绘制加工
 该作品为同人二次创作，原作版权归KOG所有。
-
------V1.5更新-----
-修正了dgn1、dgn2、cross、move、horz、move的Hot Spot。
-添加了write、text的图案样式。
