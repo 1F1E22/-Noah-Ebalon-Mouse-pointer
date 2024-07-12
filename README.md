@@ -30,7 +30,7 @@
 
 
 
-# Noah Ebelon - Mouse Pointer Instructions
+# NoahEbalon - Mouse Pointer Instructions
 **Note: This text is translated from Chinese to English using a translator. We apologize for any mistakes and thank you for your understanding.**
 
 Author：ELSWORD（Chinese）, SLS@最后 (X@1F1E22)
